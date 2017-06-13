@@ -1,6 +1,6 @@
 # WordPress Application Box
 
-This is a scaffolding that should be used for each new WordPress project in our company.
+This is a scaffolding that should be used for a new WordPress project.
 This box consists of:
 
 - Vagrant
@@ -37,8 +37,6 @@ WordPress plugins:
  - [vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager) to automatically configure the `host` file on your guest and host (Linux only) machines it is recommended to install 'vagrant-hostmanager' plugin:
 `vagrant plugin install vagrant-hostmanager`
  - [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) is a Vagrant plugin which automatically installs the host's VirtualBox Guest Additions on the guest system.
-
-
 
 ## WP-BOX Installation
 
